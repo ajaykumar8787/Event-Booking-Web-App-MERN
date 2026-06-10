@@ -32,13 +32,13 @@ Follow these steps to run the project on your local machine:
    cd Event-Booking-Web-App-MERN
 
 1. Backend Setup:
+
     cd server
     npm install
-    # Create a .env file and add your MONGO_URI and JWT_SECRET
+    Create a .env file and add your MONGO_URI and JWT_SECRET
     npm run dev
 
 2.Frontend Setup:
-
     cd ../client
     npm install
     npm run dev
